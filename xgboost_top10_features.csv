@@ -1,0 +1,11 @@
+feature,importance
+TotalSF_OverallQual,0.37353066
+Neighborhood_Blueste,0.063389815
+LowQualFinSF,0.032421038
+GarageCars,0.026970094
+MSZoning_RL,0.022514073
+YearBuilt_YearRemodAdd,0.01933558
+Exterior2nd_AsphShn,0.018489167
+TotalSF_OverallCond,0.01411644
+GarageCond_TA,0.013501958
+GarageArea_GarageCars,0.013179721
